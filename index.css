@@ -1,12 +1,15 @@
 body {
     margin: auto;
+    font-family: 'Roboto Mono';   
 }
-
 
 .container{
     width: 50%;
     margin: auto;
     
+}
+.container header h3 {
+    font-family: 'Chelsea Market';
 }
 .container nav {
     text-align: center; 
